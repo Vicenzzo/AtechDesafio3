@@ -2,8 +2,6 @@
 
 Aplicação CRUD para cadastro de pessoas, com **Vue.js** no frontend e **Node.js** no backend. A interface permite **cadastrar, visualizar, editar e excluir** registros de pessoas com nome, e-mail e telefone.
 
-> 🌎 Disponível em: **Português brasileiro**
-
 ---
 
 ## 🌐🚀 Instalação
@@ -12,7 +10,7 @@ Você precisa ter o **Node.js** instalado na sua máquina.
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Vicenzzo/AtechDesafio3.git
 
 # Vá para a pasta do backend
 cd backend-crud-desafio-3-atech
